@@ -1,0 +1,9 @@
+APScheduler==3.10.4
+deepface==0.0.79
+Flask==2.2.5
+pydub==0.25.1
+python-dotenv==0.19.1
+replicate==0.7.0
+Requests==2.31.0
+Werkzeug==2.2.3
+openai==0.28.0
